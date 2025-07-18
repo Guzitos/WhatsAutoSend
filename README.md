@@ -68,4 +68,8 @@ Respeite as políticas do WhatsApp para envio de mensagens.
 ### Licença
 MIT License
 
-### Autor by Guzitos
+### 📬 Contato
+
+Feito por Gustavo Rodrigues
+
+Se quiser trocar ideias, me chama por aqui!
